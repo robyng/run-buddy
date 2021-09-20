@@ -225,7 +225,7 @@ section {
     text-align: center;
     background: #024e76
 }
-.contact h2, p, h3, address {
+.contact h2 p h3 address {
     color: #fce138
 
 }
