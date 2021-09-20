@@ -13,4 +13,4 @@ https://robyng.github.io/run-buddy/
 ## Contribution
 Made with :heart: by Robyn Graham
 
-### Copyright RunBuddy
+### Copyright 2021 Runbuddy Inc.
